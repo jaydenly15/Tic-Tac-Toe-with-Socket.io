@@ -1,0 +1,10 @@
+img {
+  height: 400px;
+  width: 400px;
+}
+
+.images-container {
+  margin-top: auto;
+  margin-bottom: auto;
+  display: flex;
+}
